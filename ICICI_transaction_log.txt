@@ -1,0 +1,1 @@
+On Sun Oct 02 14:24:20 IST 2022From - 987654321 Balance 1000.0 Left Balance - 1000.0 Transaction Failed as withdraw amount is greater than available amount
